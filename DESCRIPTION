@@ -1,6 +1,6 @@
 Package: spoon
 Title: Address the Mean-variance Relationship in Spatial Transcriptomics Data
-Version: 1.8.0
+Version: 1.9.0
 Authors@R: c(
     person(given = "Kinnary",
            family = "Shah",
